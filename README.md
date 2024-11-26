@@ -1,6 +1,4 @@
-# vk-ds-contest
-
-VK Company Intern Contest Solution
+# ts-classification
 
 ### Как сгенерировать файл с предсказаниями?
 
